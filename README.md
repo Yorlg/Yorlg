@@ -1,15 +1,19 @@
-## About Me     
+## About Me ##
 
-![Yorlg's github stats](https://github-readme-stats.vercel.app/api?username=Yorlg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yorlg)   
+<img alt="Yorlg's github stats" src="https://github-readme-stats.vercel.app/api?username=Yorlg&ount_private=true&show_icons=true&card_width=550"/><br/>
+<img alt="Most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yorlg&layout=compact&card_width=500" />
 
 > 学习的能力方法比知识本身更重要   
 
-## More
-主要联系邮箱（Main contact email）：i@yorlg.net  
-工作专用邮箱（Work specific email）：yorlg@outlook.com  
+## More ##
+主要联系邮箱（Main contact email）：[i@yorlg.net](mailto:i@yorlg.net)  
+工作专用邮箱（Work specific email）：[yorlg@outlook.com](mailto:yorlg@outlook.com)  
 > 警告：请不要 向我的任何邮箱发送垃圾邮件（包括但不限于 广告、非我本人订阅的邮件），我将会对相关邮件的发送者或来源地址进行封禁！  
 > 另外，请不要向我的工作专用邮箱发送与工作（或开发）无任何关系的内容（如果是咨询或闲聊等可发送至主要联系邮箱）。
+
+----------
+Github Readme Stats By [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
+Format specification By [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)  
 <!--
 **Yorlg/Yorlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
