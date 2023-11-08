@@ -8,7 +8,8 @@
 ## More ##
 主要联系邮箱（Main contact email）：[i@yorlg.net](mailto:i@yorlg.net)  
 工作专用邮箱（Work specific email）：[yorlg@outlook.com](mailto:yorlg@outlook.com)  
-> 警告：请不要 向我的任何邮箱发送垃圾邮件（包括但不限于 广告、非我本人订阅的邮件），我将会对相关邮件的发送者或来源地址进行封禁！  
+> [!WARNING]
+> 请不要 向我的任何邮箱发送垃圾邮件（包括但不限于 广告、非我本人订阅的邮件），我将会对相关邮件的发送者或来源地址进行封禁！  
 > 另外，请不要向我的工作专用邮箱发送与工作（或开发）无任何关系的内容（如果是咨询或闲聊等可发送至主要联系邮箱）。
 
 GPG 公钥（如果需要验证签名，或与我保密通讯）：[Yorlg &lt;i@yorlg.net&gt; &lt;Yorlg@outlook.com&gt;](https://github.com/Yorlg.gpg)    
