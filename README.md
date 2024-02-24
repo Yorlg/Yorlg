@@ -1,7 +1,7 @@
 ## About Me ##
 <!-- 如果有人用 Github Readme Stats 官方地址出现无法获取卡片的情况，可以将官方端域名修改为 grs-mirror-0001.vercel.app -->
-<img alt="Yorlg's github stats" src="[https://grs-mirror-0001.vercel.app](https://github-readme-stats-self-hosted.vercel.app)/api?username=Yorlg&ount_private=true&card_width=550&show_icons=true"/><br/>
-<img alt="Most used programming languages" src="[https://grs-mirror-0001.vercel.app](https://github-readme-stats-self-hosted.vercel.app)/api/top-langs/?username=Yorlg&card_width=500&layout=compact" /><br/>
+<img alt="Yorlg's github stats" src="https://github-readme-stats-self-hosted.vercel.app/api?username=Yorlg&ount_private=true&card_width=550&show_icons=true"/><br/>
+<img alt="Most used programming languages" src="https://github-readme-stats-self-hosted.vercel.app/api/top-langs/?username=Yorlg&card_width=500&layout=compact" /><br/>
 
 > 学习的能力方法比知识本身更重要   
 
