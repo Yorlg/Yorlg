@@ -16,7 +16,9 @@ GPG 公钥（如果需要验证签名，或与我保密通讯）：[Yorlg &lt;i@
 GPG Fingerpint：`5349 5C4F E07B 39BF 245A 1CE3 F04D 8888 8888 8888`
 
 ----------
-[![visitor](https://visitcount.itsvg.in/api?id=Yorlg&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
+[![visitor](https://visitcount.itsvg.in/api?id=Yorlg&label=Profile%20Views&color=1&icon=5&&pretty=true)](https://visitcount.itsvg.in)
+
 ----------
 Profile visitcount By [Visit Count Pro](visitcount.itsvg.in)  
 Github Readme Stats By [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
