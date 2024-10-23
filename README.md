@@ -1,11 +1,59 @@
-## About Me ##
-<!-- 如果有人用 Github Readme Stats 官方地址出现无法获取卡片的情况，可以将官方端域名修改为 grs-mirror-0001.vercel.app -->
-<img alt="Yorlg's github stats" src="https://github-readme-stats-self-hosted.vercel.app/api?username=Yorlg&ount_private=true&card_width=550&show_icons=true"/><br/>
-<img alt="Most used programming languages" src="https://github-readme-stats-self-hosted.vercel.app/api/top-langs/?username=Yorlg&card_width=500&layout=compact" /><br/>
+#### Languages
 
-> 学习的能力方法比知识本身更重要   
+<!-- github-stats:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Yorlg&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- github-stats:end -->
 
-## More ##
+<!-- languages:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin" /></code>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- languages:end -->
+
+#### Frameworks and Tools
+
+<!-- tools:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring-boot" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" alt="electron" /></code>
+<code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- tools:end -->
+
+#### Interested
+
+<!-- interested:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- interested:end -->
+
+<!-- > 学习的能力方法比知识本身更重要 -->   
+
+#### More
 主要联系邮箱（Main contact email）：[i@yorlg.net](mailto:i@yorlg.net)  
 工作专用邮箱（Work specific email）：[yorlg@outlook.com](mailto:yorlg@outlook.com)  
 > [!WARNING]
