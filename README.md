@@ -53,7 +53,8 @@
 
 <!-- > 学习的能力方法比知识本身更重要 -->   
 
-#### More
+----
+
 主要联系邮箱（Main contact email）：[i@yorlg.net](mailto:i@yorlg.net)  
 工作专用邮箱（Work specific email）：[yorlg@outlook.com](mailto:yorlg@outlook.com)  
 > [!WARNING]
