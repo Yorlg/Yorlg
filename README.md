@@ -16,9 +16,9 @@
 <code><img height="20" src="https://api.iconify.design/logos-html-5.svg" alt="html" /></code>
 <code><img height="20" src="https://api.iconify.design/logos-css-3.svg" alt="css" /></code>
 <code><img height="20" src="https://api.iconify.design/logos-deno.svg" alt="deno" /></code>
-<code><img height="20" src="https://api.iconify.design/logos-nodejs.svg" alt="nodejs" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg" alt="nodejs" /></code>
 <code><img height="20" src="https://api.iconify.design/logos-java.svg" alt="java" /></code>
-<code><img height="20" src="https://api.iconify.design/logos-kotlin.svg" alt="kotlin" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-kotlin-icon.svg" alt="kotlin" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
@@ -33,9 +33,9 @@
 <code><img height="20" src="https://api.iconify.design/logos-react.svg" alt="react" /></code>
 <code><img height="20" src="https://api.iconify.design/logos-electron.svg" alt="electron" /></code>
 <code><img height="20" src="https://api.iconify.design/logos-express.svg" alt="express" /></code>
-<code><img height="20" src="https://api.iconify.design/logos-spring.svg" alt="spring-boot" /></code>
-<code><img height="20" src="https://api.iconify.design/logos-git.svg" alt="git" /></code>
-<code><img height="20" src="https://api.iconify.design/logos-mysql.svg" alt="mysql" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-spring-icon.svg" alt="spring-boot" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-git-icon.svg" alt="git" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-mysql-icon.svg" alt="mysql" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
