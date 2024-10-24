@@ -11,14 +11,14 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-javascript.svg" alt="javascript" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg" alt="typescript" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-html-5.svg" alt="html" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-css-3.svg" alt="css" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-deno.svg" alt="deno" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-nodejs.svg" alt="nodejs" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-java.svg" alt="java" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-kotlin.svg" alt="kotlin" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
@@ -28,14 +28,14 @@
 <!-- tools:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring-boot" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" alt="electron" /></code>
-<code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
+<code><img height="20" src="https://api.iconify.design/logos:vue.svg" alt="vue" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-vitejs.svg" alt="vite" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-react.svg" alt="react" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-electron.svg" alt="electron" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-express.svg" alt="express" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-spring.svg" alt="spring-boot" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-git.svg" alt="git" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-mysql.svg" alt="mysql" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
@@ -45,8 +45,8 @@
 <!-- interested:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-unity.svg" alt="unity" /></code>
+<code><img height="20" src="https://api.iconify.design/logos-unrealengine.svg" alt="unreal-engine" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- interested:end -->
